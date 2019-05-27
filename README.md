@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>React Beach Resort Site</h1>
+
+<p>I want to learn more about making state management efficient so I'm following a tutorial on youtube 
+  here: https://www.youtube.com/watch?v=ScDWrogElmo&list=WL&index=12&t=1341s 
+  It supplies starter css file, so the styling is not my own </p>
 
 ## Available Scripts
 
